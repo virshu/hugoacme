@@ -1,7 +1,8 @@
-baseURL: https://example.org/
+baseURL: http://hugo.cit270.site/
 languageCode: en-us
 title: Acme Corporation
 theme: Eclectic
+publishDir: hugo
 
 menu:
   main: 
