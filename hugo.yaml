@@ -15,6 +15,11 @@ menu:
       name: Contact 
       url: /contact 
       weight: 200 
+    - identifier: carousel 
+      name: Carousel
+      url: /data-driven
+      weight: 200 
+
 params: 
   author: 
     facebook: "https://facebook.com/example" 
