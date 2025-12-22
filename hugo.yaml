@@ -1,8 +1,9 @@
-baseURL: http://hugo.rabinovich.org/
+baseURL: https://www.rabinovich.org/
 languageCode: en-us
 title: Acme Corporation
 theme: Eclectic
 publishDir: hugo
+enableEmoji: true
 
 menu:
   main: 
@@ -25,7 +26,7 @@ params:
     hours: "**Mon-Fri:** 9:00AM - 6:00PM, ET" 
 
   color: "#4f46e5"
-  copyright: "Copyright &copy; 2025 Acme Corporation.
+  copyright: "Copyright &copy; 2026 Acme Corporation.
     All Rights Reserved."
   footer:
   - title: About
@@ -43,3 +44,8 @@ params:
     recentCount: 7
   - title: Contact Us
     contact: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
