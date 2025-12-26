@@ -4,3 +4,4 @@ title: Acme Corporation
 theme: Eclectic
 publishDir: hugo
 enableEmoji: true
+enableGitInfo: true
