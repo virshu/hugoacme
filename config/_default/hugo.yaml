@@ -1,0 +1,6 @@
+baseURL: https://www.rabinovich.org/
+languageCode: en-us
+title: Acme Corporation
+theme: Eclectic
+publishDir: hugo
+enableEmoji: true
