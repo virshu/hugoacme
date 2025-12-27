@@ -10,4 +10,4 @@ main:
   - identifier: carousel 
     name: Carousel
     url: /data-driven
-    weight: 200 
+    weight: 300 
